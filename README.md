@@ -1,2 +1,2 @@
 # Vector
-std::vector realization with testing file (demo.cpp)
+std::vector realization
